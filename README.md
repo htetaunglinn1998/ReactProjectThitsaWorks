@@ -4,11 +4,11 @@ This project is a React web application that fetches data from the JSONPlacehold
 
 ## Installation
 
-Clone this repository: git clone https://github.com/htetaunglinn1998/react_project_thitsaworks.git
-Navigate to the project directory: cd your-repo
-Install dependencies: yarn
-Start the development server: yarn start
-Open your web browser and navigate to http://localhost:3000
+- Clone this repository: git clone https://github.com/htetaunglinn1998/react_project_thitsaworks.git
+- Navigate to the project directory: cd your-repo
+- Install dependencies: yarn
+- Start the development server: yarn start
+- Open your web browser and navigate to http://localhost:3000
 
 ## Usage
 
@@ -22,14 +22,14 @@ To view an individual post and its comments, click on the post title from the ho
 
 ## Technologies
 
-React
-React Router
-Redux Toolkit
-Framer Motion
-Axios
-TypeScript
-API Reference
-This project uses the JSONPlaceholder API to fetch data.
+- React
+- React Router
+- Redux Toolkit
+- Framer Motion
+- Axios
+- TypeScript
+- API Reference
+- This project uses the JSONPlaceholder API to fetch data.
 
 ## Contributing
 
@@ -37,10 +37,10 @@ Contributions are welcome! To contribute, please follow these steps:
 
 ## Fork this repository
 
-Create a new branch: git checkout -b my-new-branch
-Make changes and commit: git commit -m "my changes"
-Push to the branch: git push origin my-new-branch
-Submit a pull request
+- Create a new branch: git checkout -b my-new-branch
+- Make changes and commit: git commit -m "my changes"
+- Push to the branch: git push origin my-new-branch
+- Submit a pull request
 
 ## License
 
