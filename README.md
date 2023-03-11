@@ -5,7 +5,7 @@ This project is a React web application that fetches data from the JSONPlacehold
 ## Installation
 
 - Clone this repository: git clone https://github.com/htetaunglinn1998/react_project_thitsaworks.git
-- Navigate to the project directory: cd your-repo
+- Navigate to the project directory: cd `react_project_thitsaworks`
 - Install dependencies: yarn
 - Start the development server: yarn start
 - Open your web browser and navigate to http://localhost:3000
